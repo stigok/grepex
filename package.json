@@ -20,11 +20,12 @@
   },
   "keywords": [
     "regex",
+    "regexp",
     "grep",
     "stream",
     "stdin",
-    "regexp",
-    "pipe"
+    "pipe",
+    "cli"
   ],
   "author": "stigok",
   "license": "CC0-1.0",
