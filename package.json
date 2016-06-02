@@ -1,6 +1,6 @@
 {
   "name": "grepex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Javascript style regex grep, reading from stdin",
   "bin": "cli.js",
   "directories": {
@@ -20,11 +20,12 @@
   },
   "keywords": [
     "regex",
+    "regexp",
     "grep",
     "stream",
     "stdin",
-    "regexp",
-    "pipe"
+    "pipe",
+    "cli"
   ],
   "author": "stigok",
   "license": "CC0-1.0",
