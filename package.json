@@ -1,6 +1,6 @@
 {
   "name": "grepex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Javascript style regex grep, reading from stdin",
   "bin": "cli.js",
   "directories": {
